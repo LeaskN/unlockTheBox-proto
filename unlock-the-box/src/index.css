@@ -1,0 +1,69 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url("./assets/hip-square.png");
+}
+
+a.link{
+  text-decoration: none;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+/* All styles for the teacher login page */
+.Section__sectionHeader___2djyg {
+  text-align: center;
+  padding-top: 25px;
+  font-family: 'Baloo Bhaina 2', cursive;
+  font-size: 25px;
+}
+
+.Section__sectionBody___ihqqd {
+  text-align: center;
+  padding-top: 25px;
+  font-family: 'Baloo Bhaina 2', cursive;
+}
+
+.Input__input___3e_bf {
+  width: 150px;
+}
+
+.Hint__hint___2XngB {
+  padding-top: 15px;
+}
+
+.Anchor__a___1_Iz8:hover{
+  cursor: pointer;
+  color: blueviolet;
+}
+
+.Anchor__a___1_Iz8 {
+  font-weight: bolder;
+}
+
+.Section__sectionFooter___1T54C {
+  text-align: center;
+  padding-top: 25px;
+  font-family: 'Baloo Bhaina 2', cursive;
+}
+
+.Button__button___vS7Mv {
+  width: 80px;
+}
+
+.Button__button___vS7Mv:hover {
+  cursor: pointer;
+}
+
+.Section__sectionFooterSecondaryContent___Nj41Q {
+  margin-top: 45px;
+  margin-left: 25px;
+}

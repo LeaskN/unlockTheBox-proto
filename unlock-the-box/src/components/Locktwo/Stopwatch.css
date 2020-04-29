@@ -1,0 +1,26 @@
+.Stopwatch-header {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.Stopwatch-display {
+  /* padding: 40px 0; */
+  font-size: 25px;
+}
+
+.Stopwatch {
+  margin: auto;
+  margin-top: 155px;
+  border: 2px solid grey;
+  border-radius: 4px;
+  /* margin-bottom: 250px; */
+  padding: 25px;
+  width: 200px;
+  background-color: white;
+  box-shadow: 0 3px 6px rgb(12, 12, 12);
+}
+
+.Stopwatch-display {
+  padding: 40px 0;
+  font-size: 20px;
+}

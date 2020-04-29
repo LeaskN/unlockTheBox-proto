@@ -1,0 +1,11 @@
+header {
+    background-color: #28094d;
+    height: 95px;
+    z-index: 6;
+}
+
+.logo {
+    height: 90px;
+    position: fixed;
+}
+
